@@ -3,13 +3,13 @@
 
 
 ### About
-- 📌 Frontend developer
+- 📌 Full stack developer
 - 🧑‍💻 I'm graduating in Information Technology at the Federal University of Rio Grande do Norte (UFRN)
 
 ### Current stack
 
-- 🔨 **Main language:** `JavaScript`
 - 📄 **Frontend:** `HTML5`, `CSS`, `JavaScript`
+- 🔨 **Backend:** `Node.js`, `Java`
 - 🎨 **Layout design:** `Figma`
 - 📦️ **Version code control:** `Git & Github`
 
