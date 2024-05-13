@@ -10,6 +10,7 @@
 
 - 📄 **Frontend:** `HTML5`, `CSS`, `JavaScript`
 - 🔨 **Backend:** `Node.js`, `Java`
+- 🗃️ **database:** `SQLite`
 - 🎨 **Layout design:** `Figma`
 - 📦️ **Version code control:** `Git & Github`
 
