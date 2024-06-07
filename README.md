@@ -8,7 +8,7 @@
 
 ### Current stack
 
-- 📄 **Frontend:** `HTML5`, `CSS`, `JavaScript`
+- 📄 **Frontend:** `HTML5`, `CSS`, `JavaScript`, `ReactJS`
 - 🔨 **Backend:** `Node.js`, `Java`
 - 🗃️ **database:** `SQLite`
 - 🎨 **Layout design:** `Figma`
